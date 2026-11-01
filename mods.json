@@ -98,17 +98,17 @@
       "version": "1.0.4+1.20.1",
       "loader": "forge",
       "status": "compatible-metadata"
-    }
-  ],
-  "distribution": {
-    "provider": "pending",
-    "note": "CurseForge project/file IDs are not present in the uploaded ZIP; add them before enabling automatic CurseForge downloads."
-  },
+    },
     {
       "file": "lexiconfig-forge-1.4.22-epic.jar",
       "modId": "lexiconfig",
       "version": "1.4.22-epic",
       "loader": "forge",
       "status": "compatible-metadata"
-    }
+    },
+  ],
+  "distribution": {
+    "provider": "pending",
+    "note": "CurseForge project/file IDs are not present in the uploaded ZIP; add them before enabling automatic CurseForge downloads."
+  }
 }
