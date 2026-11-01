@@ -105,8 +105,8 @@
       "version": "1.4.22-epic",
       "loader": "forge",
       "status": "compatible-metadata"
-    },
-  ]
+    }
+  ],
   "distribution": {
     "provider": "pending",
     "note": "CurseForge project/file IDs are not present in the uploaded ZIP; add them before enabling automatic CurseForge downloads."
