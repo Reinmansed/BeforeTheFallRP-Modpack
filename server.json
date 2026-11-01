@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "server": {
     "name": "Before The Fall RP",
-    "address": "",
-    "port": 25565
+    "address": "btf.seedloaf.gg",
+    "port": 54997
   }
 }
