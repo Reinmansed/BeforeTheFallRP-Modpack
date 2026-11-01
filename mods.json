@@ -26,12 +26,15 @@
       ]
     },
     {
-      "file": "voice-physics-2.12.4-mc1.16.5-26.x.jar",
-      "modId": "vc-audio-distance",
+      "file": "voice-physics-forge-neoforge-2.12.4-mc1.16.5-26.x.jar",
+      "modId": "vc_audio_distance",
       "version": "2.12.4",
-      "loader": "fabric",
-      "status": "incompatible-loader",
-      "note": "Fabric mod; replace with Forge build or remove"
+      "loader": "forge",
+      "status": "compatible-metadata",
+      "dependencies": [
+        "voicechat"
+      ],
+      "note": "Forge/NeoForge build. META-INF/mods.toml declares Minecraft 1.20.1 support and optional Forge dependency."
     },
     {
       "file": "voicechat-forge-1.20.1-2.6.6.jar",
