@@ -99,6 +99,13 @@
       "loader": "forge",
       "status": "compatible-metadata"
     }
+    {
+      "file": "lexiconfig-forge-1.4.22-epic.jar",
+      "modId": "lexiconfig",
+      "version": "1.4.22-epic",
+      "loader": "forge",
+      "status": "compatible-metadata"
+    }
   ],
   "distribution": {
     "provider": "pending",
