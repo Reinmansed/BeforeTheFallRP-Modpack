@@ -98,7 +98,7 @@
       "version": "1.0.4+1.20.1",
       "loader": "forge",
       "status": "compatible-metadata"
-    },
+    }
   ],
   "distribution": {
     "provider": "pending",
