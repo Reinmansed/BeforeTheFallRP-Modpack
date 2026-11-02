@@ -100,6 +100,34 @@
       "status": "compatible-metadata"
     },
     {
+      "file": "pneumaticcraft-repressurized-6.0.23+mc1.20.1.jar",
+      "modId": "pneumaticcraft",
+      "version": "6.0.23+mc1.20.1",
+      "loader": "forge",
+      "status": "compatible-metadata"
+    },
+    {
+      "file": "paladin-furniture-mod-1.5.0-forge-mc1.20.1.jar",
+      "modId": "pfm",
+      "version": "1.5.0",
+      "loader": "forge",
+      "status": "compatible-metadata"
+    },
+    {
+      "file": "fcl-20.47.jar",
+      "modId": "fcl",
+      "version": "20.47",
+      "loader": "forge",
+      "status": "compatible-metadata"
+    },
+    {
+      "file": "documents-2.0.4b.jar",
+      "modId": "documents",
+      "version": "2.0.4b",
+      "loader": "forge",
+      "status": "compatible-metadata"
+    },
+    {
       "file": "lexiconfig-forge-1.4.22-epic.jar",
       "modId": "lexiconfig",
       "version": "1.4.22-epic",
